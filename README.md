@@ -1,3 +1,1 @@
-# Calc
-Calculadora SImples
-Projeto IFNMG
+# calculadora_simplona
